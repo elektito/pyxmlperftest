@@ -1,0 +1,2 @@
+humanfriendly==4.4.1
+lxml==3.8.0
